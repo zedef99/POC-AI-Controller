@@ -19,10 +19,28 @@ In this repository there are two .py files:
 
 - *free_questtion.py* (the code to answer question 4)
 
-The architecture underlying the code is the following:
+## Architecture of the project
 
 ![Architecture](architecture.png)
 
+
+## Libraries Required
+
+<ul style="list-style-type: square;">
+  <li>azure</li>
+  <li>requests</li>
+  <li>openai</li>
+  <li>logging</li>
+  <li>datetime</li>
+  <li>time</li>
+  <li>json</li>
+  <li>io</li>
+  <li>pandas</li>
+  <li>base64</li>
+  <li>os</li>
+</ul>
+
+## Link to the Webinar
 Here the link fot the full webinar with a DEMO [DEMO](https://www.youtube.com/watch?v=PVYbS_iZ-g8&list=PLQ54MGpNOg4BF4Chd7erlprOHiqtnuaGc)
  
 

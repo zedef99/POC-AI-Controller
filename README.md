@@ -21,6 +21,8 @@ In this repository there are two .py files:
 
 The architecture underlying the code is the following:
 
+![Architecture](architecture.png)
+
 
  
 

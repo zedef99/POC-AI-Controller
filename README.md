@@ -17,7 +17,7 @@ In this repository there are two .py files:
 
 - *fixed_question.py* (the code to answer question 1, 2 and 3
 
-- *free_questtion.py* (the code to answer question 4)
+- *free_qa.py* (the code to answer question 4)
 
 ## Architecture of the project
 

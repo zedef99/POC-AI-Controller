@@ -41,6 +41,6 @@ In this repository there are two .py files:
 </ul>
 
 ## Link to the Webinar
-Here the link fot the full webinar with a DEMO [DEMO](https://www.youtube.com/watch?v=PVYbS_iZ-g8&list=PLQ54MGpNOg4BF4Chd7erlprOHiqtnuaGc)
+Here the link fot the full webinar with a [DEMO](https://www.youtube.com/watch?v=PVYbS_iZ-g8&list=PLQ54MGpNOg4BF4Chd7erlprOHiqtnuaGc)
  
 

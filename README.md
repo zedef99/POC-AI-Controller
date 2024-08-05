@@ -15,14 +15,14 @@ The 4 main focuses are:
 
 In this repository there are two .py files:
 
-- fixed_question.py (the code to answer question 1, 2 and 3
+- *fixed_question.py* (the code to answer question 1, 2 and 3
 
-- free_questtion.py (the code to answer question 4)
+- *free_questtion.py* (the code to answer question 4)
 
 The architecture underlying the code is the following:
 
 ![Architecture](architecture.png)
 
-Here the link to [DEMO](https://www.youtube.com/watch?v=PVYbS_iZ-g8&list=PLQ54MGpNOg4BF4Chd7erlprOHiqtnuaGc)
+Here the link fot the full webinar with a DEMO [DEMO](https://www.youtube.com/watch?v=PVYbS_iZ-g8&list=PLQ54MGpNOg4BF4Chd7erlprOHiqtnuaGc)
  
 
